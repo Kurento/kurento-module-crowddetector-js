@@ -1,0 +1,27 @@
+{
+  "name": "kurento-module-crowddetector",
+  "description": "",
+  "homepage": "http://www.kurento.com",
+  "main": "dist/kurento-module-crowddetector.js",
+  "authors": [
+    "Kurento <info@kurento.com> (http://kurento.org)"
+  ],
+  "license": "LGPL",
+  "repository": {
+    "type": "git",
+    "url": "Kurento/kurento-module-crowddetector-js"
+  },
+  "keywords": [
+    "API",
+    "Kurento",
+    "KWS",
+    "SDK",
+    "web",
+    "WebRTC"
+  ],
+  "ignore": [
+    "doc/",
+    "lib/",
+    "package.json"
+  ]
+}
