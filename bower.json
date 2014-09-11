@@ -1,6 +1,6 @@
 {
   "name": "kurento-module-crowddetector",
-  "description": "",
+  "description": "Crowd Detector Filter",
   "homepage": "http://www.kurento.com",
   "main": "dist/kurento-module-crowddetector.js",
   "authors": [
