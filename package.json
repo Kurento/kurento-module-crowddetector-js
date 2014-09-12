@@ -1,6 +1,6 @@
 {
   "name": "kurento-module-crowddetector",
-  "version": "Kurento/kurento-module-crowddetector-js#develop",
+  "version": "0.0.1-dev",
   "description": "Crowd Detector Filter",
   "homepage": "http://www.kurento.com",
   "main": "lib/index.js",
@@ -11,8 +11,7 @@
     "url": "Kurento/kurento-module-crowddetector-js"
   },
   "bugs": {
-    "url": "Kurento/kurento-module-crowddetector-js/issues",
-    "email": "info@kurento.com"
+    "email": "kurento@googlegroups.com"
   },
   "keywords": [
     "API",
