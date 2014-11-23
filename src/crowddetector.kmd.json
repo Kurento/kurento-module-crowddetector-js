@@ -62,6 +62,13 @@
         ],
         "doc": "Create a :rom:cls:`CrowdDetectorFilter`"
       },
+      "properties": [
+        {
+          "name": "processingWidth",
+          "doc": "The processing image will be resized to this width (in pixels)",
+          "type": "int"
+        }
+      ],
       "events": [
         "CrowdDetectorFluidity",
         "CrowdDetectorOccupancy",
