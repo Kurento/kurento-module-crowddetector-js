@@ -1,6 +1,6 @@
 {
   "name": "crowddetector",
-  "version": "1.0.1",
+  "version": "1.0.2-dev",
   "kurentoVersion": "^5.0.0",
   "imports": [
     {
@@ -28,13 +28,13 @@
         "nodeName": "kurento-module-crowddetector",
         "npmDescription": "Crowd Detector Filter",
         "npmGit": "Kurento/kurento-module-crowddetector-js",
-        "npmVersion": "1.0.1"
+        "npmVersion": "Kurento/kurento-module-crowddetector-js#develop"
       },
       "java": {
         "mavenGroupId": "org.kurento.module",
         "packageName": "org.kurento.module.crowddetector",
         "mavenArtifactId": "crowddetector",
-        "mavenVersion": "1.0.1"
+        "mavenVersion": "1.0.2-SNAPSHOT"
       }
     },
     "implementation": {
