@@ -1,6 +1,6 @@
 {
   "name": "kurento-module-crowddetector",
-  "version": "6.4.0",
+  "version": "6.4.1-dev",
   "description": "Crowd Detector Filter",
   "main": "lib/index.js",
   "repository": {
