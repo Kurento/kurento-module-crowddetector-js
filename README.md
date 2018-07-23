@@ -12,7 +12,7 @@ kurento-module-crowddetector-js
 
 This repository host the auto-generated JavaScript client for [Kurento] module "crowddetector".
 
-Module "crowddetector" description: Crowd Detector Filter
+Module "crowddetector" description: JavaScript Client API for Kurento Media Server
 
 What is Kurento
 ---------------
