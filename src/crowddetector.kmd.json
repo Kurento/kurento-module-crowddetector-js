@@ -223,7 +223,12 @@
         },
         {
           "name": "roiID",
-          "doc": "Opaque String indicating the id of the involved ROI",
+          "doc": "Opaque String indicating the ID of the involved ROI.\n@deprecated Use <code>roiId</code> instead.\n          ",
+          "type": "String"
+        },
+        {
+          "name": "roiId",
+          "doc": "Opaque String indicating the ID of the involved ROI",
           "type": "String"
         }
       ],
@@ -245,7 +250,12 @@
         },
         {
           "name": "roiID",
-          "doc": "Opaque String indicating the id of the involved ROI",
+          "doc": "Opaque String indicating the ID of the involved ROI.\n@deprecated Use <code>roiId</code> instead.\n          ",
+          "type": "String"
+        },
+        {
+          "name": "roiId",
+          "doc": "Opaque String indicating the ID of the involved ROI",
           "type": "String"
         }
       ],
@@ -262,7 +272,12 @@
         },
         {
           "name": "roiID",
-          "doc": "Opaque String indicating the id of the involved ROI",
+          "doc": "Opaque String indicating the ID of the involved ROI.\n@deprecated Use <code>roiId</code> instead.\n          ",
+          "type": "String"
+        },
+        {
+          "name": "roiId",
+          "doc": "Opaque String indicating the ID of the involved ROI",
           "type": "String"
         }
       ],
