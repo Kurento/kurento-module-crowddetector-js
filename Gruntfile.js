@@ -38,7 +38,7 @@ module.exports = function(grunt)
     bower:
     {
       TOKEN:      process.env.TOKEN,
-      repository: 'Kurento/kurento-module-crowddetector-js'
+      repository: 'https://github.com/Kurento/kurento-module-crowddetector-js.git'
     },
 
     // Generate documentation
